@@ -1,0 +1,29 @@
+{
+  "name": "find-helpers",
+  "version": "1.0.0",
+  "description": "Lookup paths for handlebars helpers in your fs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasonTowner/find-helpers.git"
+  },
+  "keywords": [
+    "handlebars"
+  ],
+  "author": "Jason Towner <jsntowner@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JasonTowner/find-helpers/issues"
+  },
+  "homepage": "https://github.com/JasonTowner/find-helpers#readme",
+  "dependencies": {
+    "glob": "^5.0.15",
+    "lodash": "^3.10.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  }
+}
