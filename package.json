@@ -1,6 +1,6 @@
 {
   "name": "find-helpers",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Lookup paths for handlebars helpers in your fs.",
   "main": "index.js",
   "scripts": {
